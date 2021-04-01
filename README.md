@@ -1,4 +1,5 @@
 ### Hi there 👋
+My name is Smriti Snehil and I am currently a second year student at IIT BHU.
 
 <!--
 **Smriti04501/Smriti04501** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
