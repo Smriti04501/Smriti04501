@@ -1,5 +1,6 @@
 ### Hi there 👋
-My name is Smriti Snehil and I am currently a second year student at IIT BHU. I like to solve problems using data and hope to make a career in this field.
+My name is Smriti Snehil and I am currently a second year student at IIT BHU. I like to solve problems using data and hope to make a caSmriti04501.
+![Github stats](https://github-readme-stats.vercel.app/api?username=Smriti04501)
 
 <!--
 **Smriti04501/Smriti04501** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
