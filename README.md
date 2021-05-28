@@ -1,5 +1,9 @@
-### Hi there 👋
-My name is Smriti Snehil and I am currently a second year student at IIT BHU. I like to solve problems using data and hope to make a caSmriti04501.
+![Freelance Woman Work From Home Comfortable Space In Chair With Computer On Table Flat Style Isolated On White_ Freelancer Girl Self Employed Concept Working Online_](https://user-images.githubusercontent.com/68649921/120010859-462d4300-bffb-11eb-9d92-78f133417384.png)
+
+#### Hi! I'm Smriti Snehil. 
+I am undergraduate at **IIT BHU with interests in Data Science, Machine Learning and Data Analytics.** I enjoy doing case studies and solving problems involving data and hope to make a career in this field.
+
+
 ![Github stats](https://github-readme-stats.vercel.app/api?username=Smriti04501)
 
 <!--
