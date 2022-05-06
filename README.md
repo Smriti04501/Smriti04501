@@ -3,7 +3,17 @@
 #### Hi! I'm Smriti Snehil.  Welcome to my profile :)
 I am currently an undergraduate at **IIT BHU.** My interests lie particularly in the fields of **Data Science, Machine Learning and Data Analytics.** 
 
-### Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px">
+<br>
+<br>
+
+<a>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Smriti04501&hide=stars&count_private=true&show_icons=true&bg_color=0.50,000000,404040&text_color=ffffff&title_color=04ba29&icon_color=04ba29" />
+</a>
+
+<br>
+<br>
+
+## Connect with me: <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px">
 <p align="center">
  <a href="https://www.linkedin.com/in/smriti-snehil-994348194/">
   <img src="https://user-images.githubusercontent.com/65956313/112430243-e056dd80-8d63-11eb-9d9a-ce587eea6a39.png" width="80px" height="80px"/>
@@ -19,9 +29,6 @@ I am currently an undergraduate at **IIT BHU.** My interests lie particularly in
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
-<a>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Smriti04501&hide=stars&count_private=true&show_icons=true&bg_color=0.50,000000,404040&text_color=ffffff&title_color=04ba29&icon_color=04ba29" />
-</a>
 
 <!--
 **Smriti04501/Smriti04501** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
