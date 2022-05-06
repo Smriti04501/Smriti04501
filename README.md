@@ -1,9 +1,9 @@
 ![Freelance Woman Work From Home Comfortable Space In Chair With Computer On Table Flat Style Isolated On White_ Freelancer Girl Self Employed Concept Working Online_](https://user-images.githubusercontent.com/68649921/120010859-462d4300-bffb-11eb-9d92-78f133417384.png)
 
-#### Hi! I'm Smriti Snehil. 
+#### Hi! I'm Smriti Snehil.  Welcome to my profile :)
 I am currently an undergraduate at **IIT BHU.** My interests lie particularly in the fields of **Data Science, Machine Learning and Data Analytics.** 
 
-## Connect with me
+### Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px">
 <p align="center">
  <a href="https://www.linkedin.com/in/smriti-snehil-994348194/">
   <img src="https://user-images.githubusercontent.com/65956313/112430243-e056dd80-8d63-11eb-9d9a-ce587eea6a39.png" width="80px" height="80px"/>
