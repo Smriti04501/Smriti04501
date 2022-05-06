@@ -3,6 +3,22 @@
 #### Hi! I'm Smriti Snehil. 
 I am currently an undergraduate at **IIT BHU.** My interests lie particularly in the fields of **Data Science, Machine Learning and Data Analytics.** 
 
+## Connect with me
+<p align="center">
+ <a href="https://www.linkedin.com/in/smriti-snehil-994348194/">
+  <img src="https://user-images.githubusercontent.com/65956313/112430243-e056dd80-8d63-11eb-9d9a-ce587eea6a39.png" width="80px" height="80px"/>
+ </a>
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+ <a href="mailto:snehilsmriti@gmail.com">
+  <img src="https://user-images.githubusercontent.com/65956313/112430446-2ca21d80-8d64-11eb-9221-c38156fcd855.png" width="80px" height="80px"/>
+ </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+ <a href="https://github.com/Smriti04501">
+  <img src="https://user-images.githubusercontent.com/65956313/112430672-77239a00-8d64-11eb-8c75-c893fc5a2e5b.png" width="80px" height="80px"/>
+ </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</p>
+
 ![Github stats](https://github-readme-stats.vercel.app/api?username=Smriti04501)
 
 <!--
