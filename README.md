@@ -19,7 +19,9 @@ I am currently an undergraduate at **IIT BHU.** My interests lie particularly in
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=Smriti04501)
+<a>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Smriti04501&hide=stars&count_private=true&show_icons=true&bg_color=0.50,000000,404040&text_color=ffffff&title_color=04ba29&icon_color=04ba29" />
+</a>
 
 <!--
 **Smriti04501/Smriti04501** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
