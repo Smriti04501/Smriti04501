@@ -13,7 +13,7 @@ I am currently an undergraduate at **IIT BHU.** My interests lie particularly in
 <br>
 <br>
 
-## Connect with me: <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px">
+## Connect with me: 
 <p align="center">
  <a href="https://www.linkedin.com/in/smriti-snehil-994348194/">
   <img src="https://user-images.githubusercontent.com/65956313/112430243-e056dd80-8d63-11eb-9d9a-ce587eea6a39.png" width="80px" height="80px"/>
