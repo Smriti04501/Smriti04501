@@ -1,7 +1,6 @@
 ![Freelance Woman Work From Home Comfortable Space In Chair With Computer On Table Flat Style Isolated On White_ Freelancer Girl Self Employed Concept Working Online_](https://user-images.githubusercontent.com/68649921/120010859-462d4300-bffb-11eb-9d92-78f133417384.png)
 
-#### Hi! I'm Smriti Snehil.  Welcome to my profile :)
-I am currently an undergraduate at **IIT BHU.** My interests lie particularly in the fields of **Data Science, Machine Learning and Data Analytics.** 
+#### Hi! I'm Smriti Snehil.  Welcome to my profile :)  
 
 <br>
 <br>
